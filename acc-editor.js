@@ -158,6 +158,10 @@ const items = {
     16:{
         name:"CDB Tronco",
         png:["cdb_base_fine"]
+    },
+    17:{
+        name:"Fabbricato Viaggiatori",
+        png:["fabbricato_viaggiatori"]
     }
 };
 
